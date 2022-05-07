@@ -1,0 +1,41 @@
+body {
+  background-color: #1DB954;
+}
+
+.btn-primary{
+    background-color: #094104;
+}
+.link {
+  background: white;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.linkTitle {
+  color: #428bca;
+  text-decoration: none;
+  margin-right: 5px;
+}
+.linkTitle:hover {
+  text-decoration: none;
+}
+
+.linkUrl {
+  font-weight: normal;
+  font-size: 80%;
+}
+
+.linkHeadline {
+  margin: 0;
+}
+
+.linkAuthor {
+  font-weight: normal;
+  font-size: 80%;
+}
+
+.linkForm {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
